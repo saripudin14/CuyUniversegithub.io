@@ -1,4 +1,4 @@
-# Portofolio dengan GitHub Pages
+# Membuat Web Portofolio dengan GitHub Pages
 Tugas ini merupakan sebuah web portofolio yang dikembangkan dan di-hosting menggunakan GitHub Pages. Web ini dirancang untuk menampilkan informasi pribadi, keterampilan, dan pengalaman.
 
 
@@ -13,3 +13,7 @@ Tugas ini merupakan sebuah web portofolio yang dikembangkan dan di-hosting mengg
 - 🖥 HTML & CSS – Untuk membangun struktur, tampilan, dan interaksi dasar pada web.
 - 🎨 Bootstrap/Tailwind CSS – Digunakan untuk memastikan desain yang modern dan responsif.
 - ⚡ GitHub Pages – Digunakan untuk meng-host web ini secara gratis dan mudah.
+
+
+## 📌 Cara Mengakses:
+- Website ini dapat diakses melalui tautan berikut: 🔗 https://saripudin14.github.io/CuyUniversegithub.io/
