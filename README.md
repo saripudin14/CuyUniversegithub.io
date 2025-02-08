@@ -1,5 +1,7 @@
 # Membuat Web Portofolio dengan GitHub Pages
-Tugas ini merupakan sebuah web portofolio yang dikembangkan dan di-hosting menggunakan GitHub Pages. Web ini dirancang untuk menampilkan informasi pribadi, keterampilan, dan pengalaman.
+
+## 🚀 Deskripsi:
+- Tugas ini merupakan sebuah web portofolio yang dikembangkan dan di-hosting menggunakan GitHub Pages. Web ini dirancang untuk menampilkan informasi pribadi, keterampilan, dan pengalaman.
 
 
 ## 📌 Fitur Utama:
