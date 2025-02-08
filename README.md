@@ -12,4 +12,4 @@ Tugas ini merupakan sebuah web portofolio yang dikembangkan dan di-hosting mengg
 ## 🛠 Teknologi yang Digunakan:
 - 🖥 HTML & CSS – Untuk membangun struktur, tampilan, dan interaksi dasar pada web.
 - 🎨 Bootstrap/Tailwind CSS – Digunakan untuk memastikan desain yang modern dan responsif.
-- 🚀 Git & GitHub – Digunakan untuk version control serta deployment melalui GitHub Pages.
+- ⚡ GitHub Pages – Digunakan untuk meng-host web ini secara gratis dan mudah.
